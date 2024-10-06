@@ -4,6 +4,6 @@
 # Contents
 | Folders | Description |
 |---------|-------------|
-|[Lab_0](/lab_0)|  |
-|[Lab_1](/lab_1)|  |
+|[lab_0](/lab_0)|  |
+|[lab_1](/lab_1)|  |
 
