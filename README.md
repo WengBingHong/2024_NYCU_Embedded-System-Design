@@ -5,7 +5,7 @@
 | Folders | Description |
 |---------|-------------|
 |[lab_0](/lab_0)|  |
-|[lab_1](/lab_1)|  |
+|[lab_1](/lab_1)| Hello World, load with RS-232 |
 
 # Environment
 Ubuntu 16.04, Embedsky E9V3 
