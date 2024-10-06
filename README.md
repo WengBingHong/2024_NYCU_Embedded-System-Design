@@ -7,3 +7,6 @@
 |[lab_0](/lab_0)|  |
 |[lab_1](/lab_1)|  |
 
+# Environment
+Ubuntu 16.04
+Embedsky E9V3 
