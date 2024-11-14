@@ -1,10 +1,8 @@
 # When we need high precision use strong model, slow but precise
+
 # In camera detection we should use small model like yolo fastestv2
-# Don't forget to add libopencv_world.so.3.4 libgomp.so.1
 
-
-Cross compilation
-=================
+# Cross compilation
 
 # lab_3_fast_camera_detection.cpp 
 # Don't forget to add libopencv_world.so.3.4 libgomp.so.1
