@@ -4,7 +4,7 @@
 
 
 Cross compilation
----------------------
+=================
 
 # lab_3_fast_camera_detection.cpp 
 # Don't forget to add libopencv_world.so.3.4 libgomp.so.1
