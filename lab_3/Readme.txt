@@ -2,6 +2,11 @@
 
 # In camera detection we should use small model like yolo fastestv2
 
+
+# You may need to handle the path before cross compilation if rebooted
+source /etc/environment
+arm-linux-gnueabihf-gcc -v
+
 # Cross compilation
 
 # lab_3_fast_camera_detection.cpp 
