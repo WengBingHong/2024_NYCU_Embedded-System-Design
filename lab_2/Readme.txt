@@ -13,3 +13,6 @@ arm-linux-gnueabihf-g++ demo.cpp -o demo -I /opt/EmbedSky/gcc-linaro-5.3-2016.02
 
 # Execution
 LD_LIBRARY_PATH=. ./your_code
+
+# See CPP/C++ Compiler Flags and Options
+https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html#org3aa59c3
