@@ -1,3 +1,6 @@
+Reference:
+https://github.com/doleron/yolov5-opencv-cpp-python/tree/main/config_files
+
 # cmake opencv4.5
 may lead to cmake error
 need to comment the error message mentioned in cmakelist or something
