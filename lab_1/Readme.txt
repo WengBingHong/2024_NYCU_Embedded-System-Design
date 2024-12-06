@@ -1,1 +1,2 @@
-There might be no sudo command login as root
+There might be no sudo command 
+plz login as root
