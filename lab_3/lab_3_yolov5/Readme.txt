@@ -1,5 +1,7 @@
 Reference:
-'''https://github.com/doleron/yolov5-opencv-cpp-python.git'''
+'''
+https://github.com/doleron/yolov5-opencv-cpp-python.git
+'''
 Follow the ref, and you can check your code on pc, before running on board.
 
 # cmake opencv4.5
