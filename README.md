@@ -15,3 +15,7 @@
 
 # Environment
 Ubuntu 16.04, Embedsky E9V3 
+
+# Grade
+姓名	系所	學號	組別	Lab1 (total)	Lab2_1	Lab2_2	Lab2_3	Lab3_2.1	Lab3_2.2	Lab3_2.3	Lab3_perf	Lab03_report	Lab4_1	Lab4_2	Lab4_report	Lab5_1.1	Lab5_1.2	Lab5_1.3	Lab5_2.1	Lab5_2.2	Lab5_perf	Lab5_report			加權總分										
+洪日昇	網工所 / IOE	313552041	11	100	33	33	34	40	9	18	16	10	60	18	14.4	10	15	20	10	68	30	15			94.9
