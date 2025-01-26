@@ -4,7 +4,7 @@
 # Contents
 | Folders | Description |
 |---------|-------------|
-|[Hardware Emulation](Qemu_Dockerpi)| Use Dockerpi to emulate Raspberry pi2, to test the code can be run on E9V3|
+|[Qemu_Dockerpi](Qemu_Dockerpi)| Use Dockerpi to emulate Raspberry pi2, to test the code can be run on E9V3|
 |[lab_0](/lab_0)| Check equipment |
 |[lab_1](/lab_1)| Hello World, load with RS-232 |
 |[lab_2_1](/lab_2/lab2_1_package)| Displaying an image on an embedded system's screen using OpenCV and configuring the development environment |
